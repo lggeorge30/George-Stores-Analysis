@@ -1,6 +1,6 @@
 # George-Stores-Analysis
 I built an Excel dashboard to explore how George Store’s sales and order volume vary across months, customer groups, states, and sales channels. The workbook brings six PivotTable summaries into one report.
-Download [the Excel workbook]("C:\Users\lggeo\Downloads\George Store Data Analysis(George Store Report 2026).csv"), open it in Microsoft Excel, and select **George Store Report 2026**. To inspect the figures behind a chart, open its corresponding analysis sheet. The **George Store** sheet contains the underlying records.
+Download [the Excel workbook](https://1drv.ms/x/c/9ab5efdd5cc23766/IQD_-OJLWf6cRKwBIxBMeV7HAa8FpCXFTYt6Pv7VIfFcMFE?e=cbc7s9), open it in Microsoft Excel, and select **George Store Report 2026**. To inspect the figures behind a chart, open its corresponding analysis sheet. The **George Store** sheet contains the underlying records.
 
 Analysis sheet | Question it answers |
 | --- | --- |
